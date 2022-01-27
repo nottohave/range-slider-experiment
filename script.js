@@ -31,6 +31,7 @@ slider.oninput = function() {
     viewsOutput.innerHTML = "1M";
   }
 
-
 } 
+
+//  could try formula and switch case
 
